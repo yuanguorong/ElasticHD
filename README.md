@@ -1,14 +1,3 @@
-近期准备对ElasticHD进行重构， 大家可以把自己的需求提issue~。  
-
-技术栈主要用： Vue + TypeScript + golang 
-
-欢迎大家提出自己的issue。
-
-日期（2020年3月8日 ~ 2020年4月1）收集需求。 
-
-还有如果大家需要有导入导出 MicroSoft Office Word的需求可以一起找我。 
-
-github账号： farmerx
 
 ElasticHD
 -----------
